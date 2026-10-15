@@ -34,7 +34,7 @@ Improve
 
 ## Why This Repository Exists
 
-Strong software engineering starts with strong programming fundamentals.
+Strong software engineering starts with strong programming fundamentals and pattern recognition.
 
 This repository provides a working space for:
 

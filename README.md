@@ -2,7 +2,7 @@
 
 A structured repository for learning, implementing, and experimenting with **Python programming and software development concepts**.
 
-The repository tracks hands-on work rather than only theoretical notes.
+The repository tracks hands-on work accompanied by conceptual thought process rather than only theoretical notes.
 
 ## Areas Covered
 

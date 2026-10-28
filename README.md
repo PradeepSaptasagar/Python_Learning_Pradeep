@@ -57,7 +57,7 @@ The concepts developed here are applied across projects involving:
 
 ## Tech
 
-**Python | OOP | Problem Solving | APIs | Automation**
+**Python | OOPs | Problem Solving | APIs | Automation**
 
 ---
 
